@@ -1,8 +1,8 @@
-# react-images-styles
+# react-movies-styles
 
-🎨 CSS Modules for the “React Image Gallery” homework from the React + TypeScript course.
+🎨 CSS Modules for the “React Movie Gallery” homework from the React + TypeScript course.
 
-This repository contains **ready-to-use styles** for the components used in the Image Gallery project. Students should copy these `.module.css` files into their own project after creating the corresponding components manually.
+This repository contains **ready-to-use styles** for the components used in the Movie Gallery project. Students should copy these `.module.css` files into their own project after creating the corresponding components manually.
 
 ## How to use
 
